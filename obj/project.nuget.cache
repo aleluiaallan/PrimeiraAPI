@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nZfSfl4yC/XkNgtrb+BkMHy2hK+1QpR68KUaMJ9Z24gOb1MO3kQCLjO++j82shbJOYWSvZZB5C0JDjBard/mIg==",
+  "dgSpecHash": "s0700aRgL8f+xJ/q/hncwSLoHDM7vEBFBzsTzBB5IN2paS3fYu2esdZKv8czpRwsLOG9E6FZOovCWFBw2dK/Ag==",
   "success": true,
   "projectFilePath": "C:\\balta\\Blog\\Blog.csproj",
   "expectedPackageFiles": [
@@ -60,6 +60,7 @@
     "C:\\Users\\allan\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\allan\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\allan\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\allan\\.nuget\\packages\\secureidentity\\1.0.4\\secureidentity.1.0.4.nupkg.sha512",
     "C:\\Users\\allan\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\allan\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\allan\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",

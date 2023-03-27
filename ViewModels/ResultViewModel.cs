@@ -2,6 +2,8 @@
 {
     public class ResultViewModel<T>
     {
+        private Func<List<string>> getErrors;
+
         public T Data { get; private set; }
         public List<string> Errors { get; private set; } = new();
 
@@ -24,6 +26,11 @@
         public ResultViewModel(string error)
         {
             Errors.Add(error);
+        }
+
+        public ResultViewModel(Func<List<string>> getErrors)
+        {
+            this.getErrors = getErrors;
         }
     }
 }

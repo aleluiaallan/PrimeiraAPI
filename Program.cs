@@ -36,6 +36,11 @@ builder.Services.AddTransient<TokenService>(); //sempre criar um novo
 var app = builder.Build();
 
 
+Configuration.JwtKey = app.Configuration.GetValue<string>("JwtKey");
+Configuration.ApiKeyName = app.Configuration.GetValue<string>("ApiKeyName");
+Configuration.ApiKey = app.Configuration.GetValue<string>("ApiKey");
+
+
 
 app.UseAuthentication();
 app.UseAuthorization();
