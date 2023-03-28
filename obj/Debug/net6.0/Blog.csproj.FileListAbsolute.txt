@@ -8,6 +8,7 @@ C:\balta\Blog\bin\Debug\net6.0\Blog.pdb
 C:\balta\Blog\bin\Debug\net6.0\Azure.Core.dll
 C:\balta\Blog\bin\Debug\net6.0\Azure.Identity.dll
 C:\balta\Blog\bin\Debug\net6.0\Humanizer.dll
+C:\balta\Blog\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\balta\Blog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\balta\Blog\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\balta\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -36,6 +37,7 @@ C:\balta\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\balta\Blog\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\balta\Blog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\balta\Blog\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\balta\Blog\bin\Debug\net6.0\SecureIdentity.dll
 C:\balta\Blog\bin\Debug\net6.0\System.CodeDom.dll
 C:\balta\Blog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\balta\Blog\bin\Debug\net6.0\System.Drawing.Common.dll
@@ -75,5 +77,3 @@ C:\balta\Blog\obj\Debug\net6.0\refint\Blog.dll
 C:\balta\Blog\obj\Debug\net6.0\Blog.pdb
 C:\balta\Blog\obj\Debug\net6.0\Blog.genruntimeconfig.cache
 C:\balta\Blog\obj\Debug\net6.0\ref\Blog.dll
-C:\balta\Blog\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\balta\Blog\bin\Debug\net6.0\SecureIdentity.dll
